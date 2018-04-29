@@ -1,0 +1,237 @@
+# depslib dependency file v1.0
+1524089471 source:c:\users\ounih\desktop\new folder\model\agence.cpp
+	"Agence.h"
+
+1524226707 c:\users\ounih\desktop\new folder\model\agence.h
+	<string>
+
+1524089471 source:c:\users\ounih\desktop\new folder\model\client.cpp
+	"Client.h"
+
+1524226902 c:\users\ounih\desktop\new folder\model\client.h
+	"Personne.h"
+	"Logement.h"
+
+1524226866 c:\users\ounih\desktop\new folder\model\personne.h
+	<string>
+
+1524226945 c:\users\ounih\desktop\new folder\model\logement.h
+	<string>
+
+1524227138 source:c:\users\ounih\desktop\new folder\model\contrats.cpp
+	"Contrats.h"
+
+1524227059 c:\users\ounih\desktop\new folder\model\contrats.h
+	"Logement.h"
+
+1524261383 source:c:\users\ounih\desktop\new folder\model\employee.cpp
+	"Employee.h"
+	<string>
+
+1524261377 c:\users\ounih\desktop\new folder\model\employee.h
+	"Personne.h"
+
+1524261415 source:c:\users\ounih\desktop\new folder\model\logement.cpp
+	"Logement.h"
+
+1524261451 source:c:\users\ounih\desktop\new folder\model\personne.cpp
+	"Personne.h"
+
+1524261560 source:c:\users\ounih\desktop\new folder\model\problem.cpp
+	"Problem.h"
+
+1524261520 c:\users\ounih\desktop\new folder\model\problem.h
+	<string>
+
+1524089471 source:c:\users\ounih\desktop\new folder\model\proprietaire.cpp
+	"Proprietaire.h"
+
+1524089471 c:\users\ounih\desktop\new folder\model\proprietaire.h
+	"Personne.h"
+
+1524089471 source:c:\users\ounih\desktop\new folder\model\reclamation.cpp
+	"Reclamation.h"
+
+1524089471 c:\users\ounih\desktop\new folder\model\reclamation.h
+	"Problem.h"
+
+1524089471 source:c:\users\ounih\desktop\new folder\model\suggestion.cpp
+	"Suggestion.h"
+
+1524089471 c:\users\ounih\desktop\new folder\model\suggestion.h
+	"Problem.h"
+
+1524837939 source:c:\users\ounih\documents\c\project\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	"User.h"
+	"Logement.h"
+	"Problem.h"
+	"Agence.h"
+	"employee.h"
+	"Logement.h"
+	"Proprietaire.h"
+	"RentingContrat.h"
+	"BuyingContrat.h"
+	"Client.h"
+	"Agence.h"
+
+1476113133 c:\users\ounih\desktop\new folder (2)\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476113146 c:\users\ounih\desktop\new folder (2)\include\mysql_com.h
+
+1476113172 c:\users\ounih\desktop\new folder (2)\include\mysql_time.h
+
+1476113183 c:\users\ounih\desktop\new folder (2)\include\mysql_version.h
+	<custom_conf.h>
+
+1476113323 c:\users\ounih\desktop\new folder (2)\include\typelib.h
+
+1476113368 c:\users\ounih\desktop\new folder (2)\include\my_list.h
+
+1476113377 c:\users\ounih\desktop\new folder (2)\include\my_alloc.h
+
+1524838325 source:c:\users\ounih\documents\c\project\src\agence.cpp
+	"Agence.h"
+	"Problem.h"
+	"employee.h"
+	"BuyingContrat.h"
+	"RentingContrat.h"
+	"Client.h"
+	"Logement.h"
+	"Proprietaire.h"
+
+1524833891 c:\users\ounih\documents\c\project\include\agence.h
+	<iostream>
+	"DataBase.h"
+
+1524823611 source:c:\users\ounih\documents\c\project\src\client.cpp
+	"Client.h"
+	<sstream>
+	"Logement.h"
+	"Problem.h"
+	<string>
+	"BuyingContrat.h"
+	"RentingContrat.h"
+
+1524818621 c:\users\ounih\documents\c\project\include\client.h
+	"User.h"
+	<string>
+	"DataBase.h"
+	"Personne.h"
+
+1524423250 c:\users\ounih\documents\c\project\include\user.h
+	"date.h"
+	<iostream>
+
+1524423250 c:\users\ounih\documents\c\project\include\date.h
+
+1524784444 source:c:\users\ounih\documents\c\project\src\contrat.cpp
+	"Contrat.h"
+
+1524784062 c:\users\ounih\documents\c\project\include\contrat.h
+	<iostream>
+
+1524838121 source:c:\users\ounih\documents\c\project\src\employee.cpp
+	"Employee.h"
+	<string>
+	<sstream>
+
+1524734030 c:\users\ounih\documents\c\project\include\employee.h
+	"DataBase.h"
+	"Personne.h"
+
+1524837873 source:c:\users\ounih\documents\c\project\src\logement.cpp
+	"Logement.h"
+	<string>
+	<sstream>
+
+1524732507 c:\users\ounih\documents\c\project\include\logement.h
+	<iostream>
+	"DataBase.h"
+
+1524835505 source:c:\users\ounih\documents\c\project\src\personne.cpp
+	"Personne.h"
+	<iostream>
+	<string>
+	"date.h"
+
+1524834777 c:\users\ounih\documents\c\project\include\personne.h
+	<iostream>
+	<string.h>
+	"date.h"
+
+1524824853 source:c:\users\ounih\documents\c\project\src\problem.cpp
+	"Problem.h"
+	<windows.h>
+	<mysql.h>
+	<string>
+	<sstream>
+	"Client.h"
+
+1524823932 c:\users\ounih\documents\c\project\include\problem.h
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	"DataBase.h"
+
+1524836838 source:c:\users\ounih\documents\c\project\src\proprietaire.cpp
+	"Proprietaire.h"
+	"Logement.h"
+	<sstream>
+
+1524774644 c:\users\ounih\documents\c\project\include\proprietaire.h
+	"DataBase.h"
+	"Personne.h"
+
+1524423250 source:c:\users\ounih\documents\c\project\src\test.cpp
+	"test.h"
+
+1524423250 c:\users\ounih\documents\c\project\include\test.h
+
+1524423250 source:c:\users\ounih\documents\c\project\src\user.cpp
+	"User.h"
+	<string>
+
+1524837741 source:c:\users\ounih\documents\c\project\src\database.cpp
+	"DataBase.h"
+
+1524722572 c:\users\ounih\documents\c\project\include\database.h
+	<string>
+	<windows.h>
+	<mysql.h>
+
+1524817300 source:c:\users\ounih\documents\c\project\src\buyingcontrat.cpp
+	"BuyingContrat.h"
+	<sstream>
+	"Logement.h"
+
+1524785220 c:\users\ounih\documents\c\project\include\buyingcontrat.h
+	"DataBase.h"
+	<string>
+	"Contrat.h"
+
+1524822611 source:c:\users\ounih\documents\c\project\src\rentingcontrat.cpp
+	"RentingContrat.h"
+	<sstream>
+	"Logement.h"
+
+1524784701 c:\users\ounih\documents\c\project\include\rentingcontrat.h
+	"DataBase.h"
+	<string>
+	"Contrat.h"
+
+1524571275 source:c:\users\ounih\documents\c\project\src\globalclaqq.cpp
+	"GlobalClaqq.h"
+
+1524571275 c:\users\ounih\documents\c\project\include\globalclaqq.h
+
